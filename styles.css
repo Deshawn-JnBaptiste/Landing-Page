@@ -1,6 +1,9 @@
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    margin: 0;
 }
+
+.upper-half {
+    background-color: #1F2937;
+    color: #fff;
+}
+
