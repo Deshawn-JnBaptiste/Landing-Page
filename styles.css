@@ -21,3 +21,28 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.hero-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.hero-section button {
+    background-color: #3882F6;
+    color: #fff;
+    padding: 6px 16px;
+    border: none;
+    box-shadow: none;
+    border-radius: 6px;
+}
+
+.hero-section img{
+    width: auto;
+    height: 150px;
+}
+
+.hero-content {
+    margin-right: 16px;
+}
+
