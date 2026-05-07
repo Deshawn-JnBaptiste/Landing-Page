@@ -72,3 +72,15 @@ body {
     border: 3px solid #3882F6 ;
     border-radius: 10px;
 }
+
+.quote-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 50px 0;
+}
+
+.author {
+    align-self: flex-end;
+}
