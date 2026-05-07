@@ -2,6 +2,13 @@ body {
     margin: 0;
 }
 
+button {
+    border: none;
+    box-shadow: none;
+    border-radius: 6px;
+    padding: 6px 16px;
+}
+
 .upper-section {
     background-color: #1F2937;
     color: #fff;
@@ -33,10 +40,8 @@ body {
 .hero-section button {
     background-color: #3882F6;
     color: #fff;
-    padding: 6px 16px;
-    border: none;
-    box-shadow: none;
-    border-radius: 6px;
+
+
 }
 
 .hero-section img{
@@ -83,4 +88,36 @@ body {
 
 .author {
     align-self: flex-end;
+}
+
+.call-to-action-section{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 70px;
+}
+
+.call-to-action{
+    background-color: #3882F6;
+    color: #ffff;
+    border-radius: 5px;
+    display: flex;
+    width: 500px;
+    height: 90px;
+    padding: 20px 95px;
+    gap: 50px;
+    align-items: center;
+}
+
+.call-to-action button{
+    background-color: #3882F6;
+    color: #ffff;
+    border: 2px solid #ffff;
+    height: 30px;
+    width: 120px;
+    
+}
+
+.call-to-action h3, .call-to-action p  {
+    margin: 0;
 }
