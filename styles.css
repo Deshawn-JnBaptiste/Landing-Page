@@ -22,10 +22,12 @@ button {
     color: #fff;
 }
 
-.top-bar {
+.top-bar, .hero-section {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.top-bar {
     padding-top: 16px;
 }
 
@@ -39,9 +41,6 @@ button {
 }
 
 .hero-section {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
     padding: 40px;
 }
 
@@ -85,10 +84,14 @@ button {
     border-radius: 10px;
 }
 
-.quote-section{
+.quote-section, .call-to-action-section{
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+
+.quote-section {
     background-color: #E5E7EB;
     padding: 50px 0;
 }
@@ -97,10 +100,7 @@ button {
     align-self: flex-end;
 }
 
-.call-to-action-section{
-    display: flex;
-    justify-content: center;
-    align-content: center;
+.call-to-action-section {
     padding: 70px;
 }
 
@@ -125,7 +125,7 @@ button {
     
 }
 
-.call-to-action h3, .call-to-action p  {
+.call-to-action h3, .call-to-action p, .footer-section p  {
     margin: 0;
 }
 
@@ -148,8 +148,4 @@ button {
     justify-content: center;
     align-items: center;
     padding: 30px;
-}
-
-.footer-section p {
-    margin: 0;
 }
