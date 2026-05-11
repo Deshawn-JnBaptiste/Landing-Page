@@ -12,6 +12,14 @@ body {
     color: #C9E7F2;
 }
 
+body, p {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, serif;
+}
+
 button {
     border: none;
     box-shadow: none;
@@ -37,6 +45,7 @@ button {
 }   
 
 .top-bar p{
+    font-family: Georgia, serif;
     font-size: 40px;
 }
 
@@ -47,6 +56,9 @@ button {
     gap: 40px;
     margin: 0;
     padding: 0;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
 }
 
 .hero-section {
@@ -55,7 +67,7 @@ button {
 
 .hero-section img{
     width: auto;
-    height: 400px;
+    height: 300px;
 }
 
 .hero-content {
@@ -70,6 +82,11 @@ button {
     color: #C9E7F2;
 }
 
+.info-section h2{
+    font-size: 35px;
+    font-weight: 100;
+}
+
 .cards {
     display: flex;
     justify-content: space-around;
@@ -80,13 +97,20 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 .card-content{
-    height: 100px;
-    width: 100px;
-    border: 3px solid #3882F6 ;
-    border-radius: 10px;
+    height: auto;
+    width: 300px;
+}
+
+.card-content img {
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    height: 400px;
 }
 
 .quote-section, .call-to-action-section{
