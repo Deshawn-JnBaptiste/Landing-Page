@@ -3,7 +3,6 @@
 Website themed about a fictional Oceanarium named The Living Ocean.
 
 Credits:
-
 https://bxsea.co.id/assets/landing/image/bxsea_image_bg-mainjourney.png - Oceanarium Image
 https://www.visitsealife.com/london/media/g42dvo1j/coral-display.jpg - Coral Kingdoms Image
 https://s7ap1.scene7.com/is/image/rwsentosa/life_in_the_deep_family_20250905:3by2 - Deep Sea Mysteries Image
