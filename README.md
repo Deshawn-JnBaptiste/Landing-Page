@@ -2,6 +2,8 @@
 
 Website themed about a fictional Oceanarium named The Living Ocean.
 
+Link: https://deshawn-jnbaptiste.github.io/Landing-Page/
+
 Credits:
 
 https://bxsea.co.id/assets/landing/image/bxsea_image_bg-mainjourney.png - Oceanarium Image
