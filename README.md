@@ -17,3 +17,5 @@ https://www.kaiyukan.com/assets/img/about/exhibition/img_Antarctica-sp.jpg - Arc
 https://wondersofwildlife.org/wp-content/uploads/2020/03/jellyfish.jpg - Jellyfish Gallery Image
 
 Everything else by Deshawn Jn. Baptiste
+
+Created while following The Odin Project.
